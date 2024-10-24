@@ -7,3 +7,27 @@
 .main1 {
     flex-shrink: 1;
 }
+
+.body {
+    background-color: rgb(43, 43, 43);
+}
+
+.p {
+    color: whitesmoke;
+}
+
+.name {
+    color:whitesmoke;
+}
+
+.header {
+    color:whitesmoke;
+}
+
+.resume {
+    color:whitesmoke;
+}
+
+.hobby {
+    color:whitesmoke;
+}
