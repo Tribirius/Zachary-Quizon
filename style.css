@@ -8,11 +8,11 @@
     flex-shrink: 1;
 }
 
-.body {
+body {
     background-color: rgb(43, 43, 43);
 }
 
-.p {
+p {
     color: whitesmoke;
 }
 
