@@ -1,7 +1,18 @@
-.Container {
+.Container1 {
     border: 10px gold;
+    border-width: 10px;
     display:flex;
     justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Container2 {
+    border: 10px gold;
+    border-width: 10px;
+    display:flex;
+    justify-content: space-around;
     align-items: center;
     margin: 10px;
     padding: 10px;
@@ -21,12 +32,12 @@ p {
 
 .name {
     color:whitesmoke;
-    font-size:xx-large;
+    font-size:80px;
 }
 
 #info {
     color:whitesmoke;
-    font-size:xx-large;
+    font-size:60px;
 }
 
 .header {
@@ -40,4 +51,39 @@ p {
 .social {
     width: 50;
     height: 50px;
+}
+
+#ryuga {
+    height:190px;
+    width: 300;
+}
+
+#ow {
+    height:190px;
+    width:127px;
+}
+
+#vg {
+    height:190px;
+    width:130px;
+}
+
+#pete{
+    height:190px;
+    width: 300px;
+}
+
+#vb {
+    height:190px;
+    width:250px;
+}
+
+#badminton {
+    height:190px;
+    width:250px;
+}
+
+#drums {
+    height:190px;
+    width:190px;
 }
